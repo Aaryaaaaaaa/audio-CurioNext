@@ -1,0 +1,28 @@
+Dataset: ESC-10
+
+Feature Extraction:
+40-bin Log-Mel Spectrogram
+
+Model:
+Tiny CNN
+
+Test Accuracy:
+60.0%
+
+Original Model Size:
+145.48 KB
+
+TFLite Model Size:
+34.55 KB
+
+INT8 TFLite Model Size:
+15.95 KB
+
+Compression:
+89.03%
+
+Average Inference Latency:
+1.64 ms
+
+Sample Prediction:
+sea_waves
